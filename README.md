@@ -3,4 +3,4 @@
 # ❄️️ ️Tack Stack
 
 # 📧 Connect with me
-https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://iamcoz.notion.site/
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=000000&link=https://iamcoz.notion.site/"/>
